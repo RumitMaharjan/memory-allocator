@@ -29,3 +29,6 @@ gcc memory_management.c -o memory_allocator
 
 ## Author
 Rumit Maharjan
+
+program output: 
+<img width="824" height="428" alt="Screenshot 2026-05-15 032309" src="https://github.com/user-attachments/assets/34980ae2-f6b0-4ffb-bf2b-b5a3e0a9fc8c" />
